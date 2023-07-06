@@ -1,0 +1,1 @@
+require "mailersend_actionmailer"
